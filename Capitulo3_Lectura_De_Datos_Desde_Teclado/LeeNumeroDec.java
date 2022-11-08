@@ -3,7 +3,7 @@ public class LeeNumeroDec {
         String linea;//Creamos una variable linea con las propiedades  de String
         System.out.print("Por favor, introduce un número: ");//imprime por pantalla "Por favor, introduce un número: "
         linea = System.console().readLine();//le decimos al ordenador que le pida al usuario que escriba el valor de la variable linea
-        double primerNumero;//Creamos una variable de valor entero
+        double primerNumero;//Creamos una variable de valor Decimal
         primerNumero = Double.parseDouble( linea );//le traspasamos el valor recogido en linea a primerNumero
         System.out.print("introduce otro, por favor: ");//reescribrimos el valor linea
         linea = System.console().readLine();
