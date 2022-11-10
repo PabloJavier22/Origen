@@ -1,4 +1,5 @@
 public class LeeNumero {
+    //PabloJavier
     public static void main(String[] args) {
         String linea;//Creamos una variable linea con las propiedades  de String
         System.out.print("Por favor, introduce un número: ");//imprime por pantalla "Por favor, introduce un número: "
