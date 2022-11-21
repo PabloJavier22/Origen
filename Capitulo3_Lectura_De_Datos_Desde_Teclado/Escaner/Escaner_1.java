@@ -2,7 +2,8 @@ package Escaner;
 
 import java.util.Scanner;
 
-public class Escaner_1{ 
+public class Escaner_1{
+    //PabloJavier
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);
         System.out.print("Introduce los numeros separados por un espacio: ");

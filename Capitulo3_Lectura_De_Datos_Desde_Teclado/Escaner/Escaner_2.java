@@ -3,6 +3,7 @@ package Escaner;
 import java.util.Scanner;
 
 public class Escaner_2 {
+    //PabloJavier
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);
         System.out.print("Introduce el dinero que quieras convertir: ");
