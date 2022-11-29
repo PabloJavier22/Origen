@@ -1,4 +1,4 @@
-package For;
+package Capitulo5_Bucles;
 
 public class For_2 {
     //PabloJavier

@@ -1,4 +1,4 @@
-package For;
+package Capitulo5_Bucles;
 //PabloJavier
 public class For_5 {
     public static void main(String[] args){
