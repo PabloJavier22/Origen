@@ -19,14 +19,14 @@ public class Bucles_19 {
             for (int i = 1; i <= espacio; i++){
                 System.out.print(" ");
             }
-            for (int n= 1; n <= columnas; n++){
+            for (int i= 1; i <= columnas; i++){
                 System.out.print(hola);
             }
 
             System.out.println();
             fila++;
             espacio--;
-            columnas = columnas + 2;
+            columnas +=2;
             }
         }
 
