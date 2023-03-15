@@ -1,4 +1,4 @@
-package Funciones.misFunciones;
+package segundo_trimestre.Funciones.misFunciones;
 
 public class Varios {
     public static double menor(double x, double y){

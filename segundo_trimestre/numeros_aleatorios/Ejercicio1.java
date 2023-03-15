@@ -1,4 +1,4 @@
-package segundo_trimestre.numeros_aleatorios;
+package numeros_aleatorios;
 
 public class Ejercicio1 {
     //Pablo Javier Muñoz García

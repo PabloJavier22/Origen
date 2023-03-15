@@ -1,4 +1,4 @@
-package segundo_trimestre.funciones;
+package segundo_trimestre.Funciones;
 
 import java.util.Scanner;
 

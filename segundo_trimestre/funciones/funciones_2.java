@@ -1,4 +1,4 @@
-package segundo_trimestre.numeros_aleatorios;
+package segundo_trimestre.Funciones;
 
 import java.util.Scanner;
 

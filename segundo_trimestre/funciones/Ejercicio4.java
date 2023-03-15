@@ -1,4 +1,4 @@
-package Funciones;
+package segundo_trimestre.Funciones;
 import Funciones.misFunciones.Varios;
 public class Ejercicio4 {
     public static void main(String[] args){

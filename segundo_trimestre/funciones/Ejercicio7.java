@@ -1,4 +1,4 @@
-package Funciones;
+package segundo_trimestre.Funciones;
 import Funciones.misFunciones.Matematicas;
 
 public class Ejercicio7 {

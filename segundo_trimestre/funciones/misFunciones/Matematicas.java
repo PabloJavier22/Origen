@@ -1,4 +1,4 @@
-package Funciones.misFunciones;
+package segundo_trimestre.Funciones.misFunciones;
 
 public class Matematicas {
     public static double mutiplica(double x, double y){
