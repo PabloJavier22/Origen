@@ -1,4 +1,5 @@
 package Capitulo4_Condicional;
+import java.util.Scanner;
 
 public class Capito4_26 {
     public static void main(String[] args) {

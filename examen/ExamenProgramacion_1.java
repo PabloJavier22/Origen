@@ -1,3 +1,4 @@
+package examen;
 public class ExamenProgramacion_1 {
     //PabloJavier
     public static void main(String[] args){

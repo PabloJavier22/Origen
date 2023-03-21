@@ -31,6 +31,7 @@ class Vehiculo {
 
 class Bicicleta extends Vehiculo {
     public void montarLaBiciEnElFurgon(){
+        
         System.out.println("¡Has recorrido 10km mientras estabas en el coche!");
     }
 }
