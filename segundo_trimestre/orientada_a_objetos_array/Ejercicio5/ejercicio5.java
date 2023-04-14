@@ -11,6 +11,9 @@ public class ejercicio5 {
         int ultimo = 0;
 
         while(x != 7){
+            try {
+                
+           
             System.out.println("\n1. Listado\n2. Dar de alta\n3. Dar de baja \n4. Modificación\n5. Entrada de mercancía\n6. Salida de mercancía\n7. Salir");
             x = Integer.parseInt(System.console().readLine());
 
@@ -98,6 +101,10 @@ public class ejercicio5 {
                 int suma = guardado - enviado;
                 almacen[i].setCantidad(suma);
                 System.out.println("Su operacion se ha realizado con exito!!");
+            } 
+        } catch (Exception e) {
+                System.out.println("Valor no valido!!!");
+                
             }
 
         }
