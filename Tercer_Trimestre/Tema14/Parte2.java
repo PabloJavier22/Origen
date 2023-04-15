@@ -10,23 +10,21 @@ public class Parte2 {
         Scanner es = new Scanner(System.in);
         Double maximo = Double.MIN_VALUE;
         Double numero = 0.00;
-
+        
         for(int x = 0; x < 5; x++){
-            try {
-                
-
+           try {
            System.out.println(x+"º numero");
            numero = es.nextDouble(); 
                  
            if (maximo < numero){
             maximo = numero;
-           }        
+           } 
             } catch (Exception e) {
                 System.out.println("numero no valido");
                 x--;
-                numero = 0.00;
-            }
-        }    
+            }           
+          
+        }  
         System.out.println("maximo: "+maximo);
     }
 }
